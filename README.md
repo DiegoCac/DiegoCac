@@ -1,4 +1,4 @@
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=DiegoCac.DiegoCac)
+
 [![Github](https://img.shields.io/github/followers/DiegoCac?label=Follow&style=social)](https://github.com/DiegoCac)
 
 # 👋 Hola, soy Diego
@@ -36,7 +36,7 @@
   <tr>
     <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=sqlite&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" width="40px" alt="SQLite"/><br /><sub><b>SQLite</b></sub></a></td>
     <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=java&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" width="40px" alt="Java"/><br /><sub><b>Java</b></sub></a></td>
-    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&q=spring&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/springboot.svg" width="40px" alt="Spring Boot"/><br /><sub><b>Spring Boot</b></sub></a></td>
+   <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&q=spring&sort="><img src="https://img.icons8.com/color/48/spring-logo.png" width="40px" alt="Spring Boot"/><br /><sub><b>Spring Boot</b></sub></a></td>
     <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=pytorch&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg" width="40px" alt="PyTorch"/><br /><sub><b>PyTorch</b></sub></a></td>
     <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=css&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="40px" alt="CSS3"/><br /><sub><b>CSS3</b></sub></a></td>
     <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=html&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="40px" alt="HTML5"/><br /><sub><b>HTML5</b></sub></a></td>
