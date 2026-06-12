@@ -3,7 +3,7 @@
 
 # 👋 Hola, soy Diego
 
-> Estudiante apasionado por la tecnología, el desarrollo de software y los girasoles 🌻
+> Estudiante apasionado por la tecnología, el desarrollo de software y el ejercicio 🌻
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -15,10 +15,10 @@
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Actualmente trabajando en: **Soy Estudiante**
-- 🌱 Aprendiendo: **Git, Java, GitHub**
+- 🌱 Aprendiendo: **A superarme**
 - 👯 Busco colaborar en: **Proyectos**
 - 💬 Pregúntame sobre: **SQL, Java, C#, JavaScript**
-- ⚡ Dato curioso: **Me gustan los girasoles 🌻**
+- ⚡ Dato curioso: **Me gustan los los atardeceres 🌻**
 
 ---
 
@@ -35,6 +35,8 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=sqlite&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" width="40px" alt="SQLite"/><br /><sub><b>SQLite</b></sub></a></td>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=java&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" width="40px" alt="Java"/><br /><sub><b>Java</b></sub></a></td>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&q=spring&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/springboot.svg" width="40px" alt="Spring Boot"/><br /><sub><b>Spring Boot</b></sub></a></td>
     <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=pytorch&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg" width="40px" alt="PyTorch"/><br /><sub><b>PyTorch</b></sub></a></td>
     <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=css&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="40px" alt="CSS3"/><br /><sub><b>CSS3</b></sub></a></td>
     <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=html&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="40px" alt="HTML5"/><br /><sub><b>HTML5</b></sub></a></td>
@@ -47,7 +49,7 @@
 
 ## 🤝 Conecta conmigo
 
-<a href="https://www.linkedin.com/in/tu-linkedin"> <img width="32px" alt="LinkedIn" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href="[https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/diego-cac-376a47203/)"> <img width="32px" alt="LinkedIn" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href="https://www.twitter.com/tu-twitter"> <img width="32px" alt="Twitter" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href="https://medium.com/@tusuario"> <img width="32px" alt="Medium" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href="https://tusitioweb.com/"> <img width="32px" alt="Portfolio" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
