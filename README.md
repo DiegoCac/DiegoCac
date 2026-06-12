@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Actualmente trabajando en: **Soy Estudiante**
 - 🌱 Aprendiendo: **Git, Java, GitHub**
@@ -24,28 +24,34 @@
 
 ## 🛠 Tech Stack
 
-<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=python&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" width="40px" alt="Python"/><br /><sub><b>Python</b></sub></a></td>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=reactjs&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" width="40px" alt="React"/><br /><sub><b>React</b></sub></a></td>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=javascript&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" width="40px" alt="JavaScript"/><br /><sub><b>JavaScript</b></sub></a></td>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=scikit&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg" width="40px" alt="Scikit-Learn"/><br /><sub><b>Scikit-Learn</b></sub></a></td>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=c&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" width="40px" alt="C"/><br /><sub><b>C</b></sub></a></td>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=cpp&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" width="40px" alt="C++"/><br /><sub><b>C++</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=sqlite&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" width="40px" alt="SQLite"/><br /><sub><b>SQLite</b></sub></a></td>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=pytorch&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg" width="40px" alt="PyTorch"/><br /><sub><b>PyTorch</b></sub></a></td>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=css&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="40px" alt="CSS3"/><br /><sub><b>CSS3</b></sub></a></td>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=html&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="40px" alt="HTML5"/><br /><sub><b>HTML5</b></sub></a></td>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=android&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg" width="40px" alt="Android"/><br /><sub><b>Android</b></sub></a></td>
+    <td align="center"><a href="https://github.com/DiegoCac?tab=repositories&q=&type=&language=csharp&sort="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" width="40px" alt="C#"/><br /><sub><b>C#</b></sub></a></td>
+  </tr>
+</table>
 
 ---
 
 ## 🤝 Conecta conmigo
 
-<a href = 'https://www.linkedin.com/in/tu-linkedin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/tu-twitter'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@tusuario'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://tusitioweb.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/DiegoCac'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href="https://www.linkedin.com/in/tu-linkedin"> <img width="32px" alt="LinkedIn" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href="https://www.twitter.com/tu-twitter"> <img width="32px" alt="Twitter" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href="https://medium.com/@tusuario"> <img width="32px" alt="Medium" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href="https://tusitioweb.com/"> <img width="32px" alt="Portfolio" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href="https://www.github.com/DiegoCac"> <img width="32px" alt="GitHub" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 ---
 
