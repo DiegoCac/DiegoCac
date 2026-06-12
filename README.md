@@ -49,7 +49,7 @@
 
 ## 🤝 Conecta conmigo
 
-<a href="[https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/diego-cac-376a47203/)"> <img width="32px" alt="LinkedIn" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href="(www.linkedin.com/in/diego-cac-376a47203)"> <img width="32px" alt="LinkedIn" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href="https://www.twitter.com/tu-twitter"> <img width="32px" alt="Twitter" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href="https://medium.com/@tusuario"> <img width="32px" alt="Medium" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href="https://tusitioweb.com/"> <img width="32px" alt="Portfolio" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
