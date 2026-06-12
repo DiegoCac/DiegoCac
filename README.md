@@ -1,131 +1,70 @@
-# 🚀 Nombre del Proyecto
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=DiegoCac.DiegoCac)
+[![Github](https://img.shields.io/github/followers/DiegoCac?label=Follow&style=social)](https://github.com/DiegoCac)
 
-> Descripción breve del proyecto: qué hace, para quién y por qué existe.
+# 👋 Hola, soy Diego
+
+> Estudiante apasionado por la tecnología, el desarrollo de software y los girasoles 🌻
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ---
 
-## 🛠 Tech Stack
+## 🧑‍💻 Sobre mí
 
-**Frontend**
-- Framework: React / Next.js / Vue
-- Estilos: Tailwind CSS / SCSS
-- State: Redux / Zustand / Pinia
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-**Backend**
-- Runtime: Node.js / Python / Go
-- Framework: Express / FastAPI / Gin
-- Base de datos: PostgreSQL / MongoDB
-
-**Infraestructura**
-- Contenedores: Docker + Docker Compose
-- CI/CD: GitHub Actions
-- Deploy: Vercel / Railway / AWS
-
-## ⚡ Instalación y uso
-
-### Requisitos previos
-- Node.js >= 18
-- Docker (opcional)
-- Variables de entorno configuradas (ver `.env.example`)
-
-### Desarrollo local
-
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/nombre-proyecto.git
-cd nombre-proyecto
-
-# 2. Instalar dependencias
-npm install           # raíz (monorepo) o frontend
-cd backend && npm install
-
-# 3. Configurar variables de entorno
-cp .env.example .env
-
-# 4. Iniciar en desarrollo
-npm run dev           # frontend
-npm run dev:api       # backend
-```
-
-### Con Docker
-
-```bash
-docker-compose up --build
-```
-
-La app estará disponible en `http://localhost:3000`.
-
-## 📁 Estructura del proyecto
-
-```
-nombre-proyecto/
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── hooks/
-│   │   └── utils/
-│   └── package.json
-├── backend/
-│   ├── src/
-│   │   ├── routes/
-│   │   ├── controllers/
-│   │   ├── models/
-│   │   └── middleware/
-│   └── package.json
-├── docker-compose.yml
-├── .env.example
-└── README.md
-```
-
-## 🔐 Variables de entorno
-
-Copia `.env.example` a `.env` y rellena los valores:
-
-```env
-# App
-NODE_ENV=development
-PORT=3000
-
-# Base de datos
-DATABASE_URL=postgresql://user:password@localhost:5432/dbname
-
-# Autenticación
-JWT_SECRET=tu_secreto_super_seguro
-JWT_EXPIRES_IN=7d
-
-# API Keys externas
-STRIPE_SECRET_KEY=
-SENDGRID_API_KEY=
-```
-
-> ⚠️ Nunca subas el archivo `.env` al repositorio.
-
-## 🤝 Contribuir
-
-¡Las contribuciones son bienvenidas! Por favor lee [CONTRIBUTING.md](CONTRIBUTING.md) antes.
-
-```bash
-# 1. Haz un fork del proyecto
-# 2. Crea tu rama de feature
-git checkout -b feature/nueva-funcionalidad
-
-# 3. Commitea tus cambios
-git commit -m "feat: agrega nueva funcionalidad"
-
-# 4. Push a la rama
-git push origin feature/nueva-funcionalidad
-
-# 5. Abre un Pull Request
-```
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE).
+- 🔭 Actualmente trabajando en: **Soy Estudiante**
+- 🌱 Aprendiendo: **Git, Java, GitHub**
+- 👯 Busco colaborar en: **Proyectos**
+- 💬 Pregúntame sobre: **SQL, Java, C#, JavaScript**
+- ⚡ Dato curioso: **Me gustan los girasoles 🌻**
 
 ---
 
-Hecho con ❤️ por [@tu-usuario](https://github.com/DiegoCac/DiegoCac.git)
+## 🛠 Tech Stack
+
+<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
+<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
+<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= https://github.com/DiegoCac?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+
+---
+
+## 🤝 Conecta conmigo
+
+<a href = 'https://www.linkedin.com/in/tu-linkedin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/tu-twitter'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://medium.com/@tusuario'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = 'https://tusitioweb.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/DiegoCac'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+---
+
+## 📊 Estadísticas
+
+| ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=DiegoCac&show_icons=true&theme=tokyonight) | ![Diego GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoCac&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCac&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DiegoCac&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+[![Diego's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DiegoCac&theme=tokyonight)](https://git.io/praveenscience)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+---
+
+## 📄 Licencia
+
+Este perfil está bajo licencia [MIT](LICENSE).
+
+---
+
+**Hecho con ❤️ por [Diego](https://github.com/DiegoCac)**
