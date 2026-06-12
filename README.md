@@ -64,7 +64,7 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCac&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DiegoCac&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ---
-![Diego's Trophies](https://github-profile-trophies.vercel.com/?username=DiegoCac&theme=tokyonight&margin-w=15)
+
 ---
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
