@@ -57,11 +57,16 @@
 
 ---
 
-## 📊 Estadísticas
+## 📊 &nbsp;Mis Estadisticas
+  <a href="https://github.com/DiegoCac">
+    <img width=450 height=170 align="center" alt="DiegoCac" src="https://github-readme-stats.vercel.app/api?username=DiegoCac&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/DiegoCac">
+    <img align="center" alt="DiegoCac" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCac&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
 
-| ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=DiegoCac&show_icons=true&theme=tokyonight) | ![Diego GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoCac&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCac&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DiegoCac&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<div>
 
 ---
 
