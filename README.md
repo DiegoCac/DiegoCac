@@ -114,15 +114,12 @@
 
 ## 📊 &nbsp;Mis Estadisticas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
   
-  <a href="https://github.com/DiegoCac">
-    <img width=450 height=170 align="center" alt="DiegoCac" src="https://github-readme-stats.vercel.app/api?username=DiegoCac&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/DiegoCac">
-    <img align="center" alt="DiegoCac" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCac&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-</div>
-
-<div>
+  <p align="center">
+<a href="https://github.com/DiegoCac">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoCac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoCac&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 
